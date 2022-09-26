@@ -1,4 +1,4 @@
-Partendo dall'indirizzo IP 192.168.0.0 progettare 3 lan composta rispettivamente da: 50 host, 30 host e 10 host
+**Partendo dall'indirizzo IP 192.168.0.0 progettare 3 lan composta rispettivamente da: 50 host, 30 host e 10 host**
 LAN1 (50 host)
 
 192.168.0.0		    net
@@ -27,7 +27,7 @@ LAN3 (10 host)
 
 
 ----------------------------------------------------------------
-Partendo dall'indirizzo IP 192.168.0.0 progettare 3 lan composta rispettivamente da: 100 host, 15 host, 7 host e 7 host
+**Partendo dall'indirizzo IP 192.168.0.0 progettare 3 lan composta rispettivamente da: 100 host, 15 host, 7 host e 7 host**
 
 LAN1 (100 HOST)
 
